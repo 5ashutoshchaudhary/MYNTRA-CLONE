@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="amazon.css">
+  <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+</head>
+<body>
+  <header> 
+    <div id="logo">
+      <img src="myntra_logo.webp" alt="">
+    </div>
+    <div class="texts">MAN</div>
+    <div class="texts">WOMEN</div>
+    <div class="texts">KIDS</div>
+    <div class="texts">HOME & LIVINGS</div>
+    <div class="texts">BEAUTY</div>
+    <div class="texts">STUDIO<sup id="new">NEW</sup></div>
+    <div id="lens">
+      <i class="ri-search-line"></i>
+    </div>
+    <div id="search">
+      <input id="search bar" type="text"  
+      placeholder="Search for products, brands and more">
+    </div>
+   <div class="icons">
+    <i class="ri-user-line"></i>
+    <p>Profile</p>
+   </div>
+   <div class="icons">
+    <i class="ri-heart-line"></i>
+    <p>Wishlist</p>
+   </div>
+   <div class="icons">
+    <i class="ri-handbag-line"></i>
+    <p>Bag</p>
+   </div>
+  </header>
+  <div id="fakeheader"></div>
+  <div id="main1">
+    <div id="main">
+      <img id="banner" src="banner.jpg" alt="">
+    </div>
+  </div>
+  <h1 id="heading">CRAZY OFFER WITH LOVELY DISCOUNT</h1>
+  <div id="offers1">
+    <div class="offers">
+      <img id="img1" src="1.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img2" src="2.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img3" src="3.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img4" src="4.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img5" src="5.jpg" alt="">
+    </div>
+  </div>
+  <div id="offers1">
+    <div class="offers">
+      <img id="img6" src="6.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img7" src="7.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img8" src="8.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img9" src="9.jpg" alt="">
+    </div>
+    <div class="offers">
+      <img id="img10" src="10.jpg" alt="">
+    </div>
+  </div>
+  <H1>CRAZY AND BEST FASHION DEALS</H1>
+  <div id="deals1">
+    <div class="deals">
+      <img id="img11" src="1.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img12" src="2.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img13" src="7.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img14" src="4.png" alt="">
+    </div>
+  </div>
+  <h1>FESTIVAL SPECIAL </h1>
+  <div id="deals1">
+    <div class="deals">
+      <img id="img15" src="11.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img16" src="4.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img17" src="8.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img18" src="9.png" alt="">
+    </div>
+  </div>
+ <h1>FASHION AND TRENDING</h1> 
+  <div id="deals1">
+    <div class="deals">
+      <img id="img19" src="10.png" alt="">
+    </div>
+    <div class="deals">
+      <img id="img20" src="12.png" alt="">
+    </div>  
+  </div>
+  <footer>
+    <div id="footer">
+      <div class="col1">
+        <h4>ONLINE SHOPPING</h4>
+        <div class="btext">MEN</div>
+        <div class="btext">WOMEN</div>
+        <div class="btext">KIDS</div>
+        <div class="btext">HOME&BEAUTY</div>
+        <div class="btext">GIFT CARDS</div>
+        <div class="btext">MYNTRA INSIDER</div>
+      </div>
+      <div class="col1">
+        <img src="Screenshot 2024-12-30 122204.png" alt="">
+        <img src="Screenshot 2024-12-30 122223.png" alt="">
+      </div>
+      <div class="col2">
+        <h4>USEFUL LINKS</h4>
+        <div class="btext">BLOGS</div>
+        <div class="btext">CAREERS</div>
+        <div class="btext">SITE MAPS</div>
+        <div class="btext">COORPORATE INFORMATION</div>
+        <div class="btext">WHITEHAT</div>
+        <div class="btext">CLEARTRIP</div>
+      </div>
+      <div class="col3">
+        <h4>CUSTOMER POLICIES</h4>
+        <div class="btext"> CONTACT US</div>
+        <div class="btext"> FAQ</div>
+        <div class="btext">TERMS FO USE</div>
+        <div class="btext">TRACK ORDERS</div>
+        <div class="btext">SHIPPING</div>
+        <div class="btext">CANCELLATION</div>
+        <div class="btext">RETURNS</div>
+        <div class="btext">PRIVACY POLICY</div>
+        <div class="btext">GRIEVANCE REDRESSAL</div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
